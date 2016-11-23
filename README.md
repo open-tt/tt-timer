@@ -1,13 +1,13 @@
-# Open-TT: TT-Timer
+# TT-Timer
 
 - [Deutsch](#deutsch)
 - [English](#english)
 - [Programming](#programming)
 - [Rechtliches / Legal stuff](#rechtliches-legal-stuff)
 
-Teil des Projekts "Open-TT", offene Apps, Dokumente und Programme rund um Tischtennis.
+Teil des Projekts "TT-Schiri", offene Apps, Dokumente und Programme rund um Tischtennis.
 
-Part of the project "Open-TT" which provides open documents and applications for table tennis.
+Part of the project "TT-Schiri" which provides open documents and applications for table tennis.
 
 
 ## Deutsch
@@ -103,18 +103,18 @@ The program is distributed under the terms of the GNU General Public License.
 
 See COPYING for details.
 
-This file is part of Open-TT: TT-Timer.
+This file is part of TT-Schiri: TT-Timer.
 
-Open-TT: TT-Timer is free software: you can redistribute it and/or modify
+TT-Schiri: TT-Timer is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-Open-TT: TT-Timer is distributed in the hope that it will be useful,
+TT-Schiri: TT-Timer is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with Open-TT: TT-Timer.  If not, see <http://www.gnu.org/licenses/>.
+along with TT-Schiri: TT-Timer.  If not, see <http://www.gnu.org/licenses/>.
 
