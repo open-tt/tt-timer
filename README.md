@@ -16,11 +16,10 @@ Der TT-Timer stellt die im Spiel benötigten Timer-Funktionen per App zur Verfü
 
 Dies sind insbesondere:
 
-- Spieldauermessung
+- Satzdauermessung
 - Einspielen
 - Time-Out
 - Seitenwechsel
-- Verletzungspause
 
 Die App wird zunächst mit deutscher Benutzeroberfläche entwickelt, die Entwicklungssprache ist Englisch.
 
@@ -30,11 +29,10 @@ TT-Timer provides timer functions in an app needed in a table tennis match.
 
 These are especially:
 
-- match length
+- set time
 - practice time
 - time out
 - changeover
-- medical break
 
 First, the app is implemented with a German user interface, with English being the development language.
 
